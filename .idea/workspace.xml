@@ -4,154 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c1fa791-80e2-4bf5-9662-a30d2a407e7f" name="Changes" comment="first">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/CONTRIBUTORS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/INSTALL" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/KEYS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/NOTICE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/WHATSNEW" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/bin/ant" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/bin/ant.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/bin/ant.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/bin/antRun" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/bin/antRun.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/bin/antRun.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/bin/antenv.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/bin/complete-ant-cmd.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/bin/envset.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/bin/lcp.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/bin/runant.pl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/bin/runant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/bin/runrc.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/contributors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/etc/ant-bootstrap.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/etc/changelog.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/etc/checkstyle/checkstyle-frames-sortby-check.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/etc/checkstyle/checkstyle-frames.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/etc/checkstyle/checkstyle-text.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/etc/checkstyle/checkstyle-xdoc.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/etc/coverage-frames.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/etc/jdepend-frames.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/etc/jdepend.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/etc/junit-frames-xalan1.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/etc/junit-frames.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/etc/junit-noframes.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/etc/log.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/etc/maudit-frames.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/etc/mmetrics-frames.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/etc/tagdiff.xsl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/fetch.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/get-m2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/README" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-antlr.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-antlr.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-apache-bcel.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-apache-bcel.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-apache-bsf.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-apache-bsf.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-apache-log4j.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-apache-log4j.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-apache-oro.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-apache-oro.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-apache-regexp.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-apache-regexp.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-apache-resolver.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-apache-resolver.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-apache-xalan2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-apache-xalan2.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-commons-logging.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-commons-logging.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-commons-net.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-commons-net.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-imageio.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-imageio.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-jai.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-jai.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-javamail.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-javamail.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-jdepend.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-jdepend.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-jmf.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-jmf.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-jsch.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-jsch.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-junit.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-junit.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-junit4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-junit4.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-junitlauncher.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-junitlauncher.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-launcher.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-launcher.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-netrexx.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-netrexx.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-parent.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-swing.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-swing.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-testutil.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-testutil.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-xz.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant-xz.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/ant.pom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/lib/libraries.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/apache-ant/patch.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/app/build.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/app/build/classes/com/alevel/test/ApStr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/app/build/classes/com/alevel/test/ApText.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/app/build/classes/com/alevel/test/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/app/build/jar/main.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/app/libs/commons-lang3-3.12.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/app/libs/commons-text-1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/app/src/ua/com/alevel/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/app/src/ua/com/alevel/test/ApStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/app/src/ua/com/alevel/test/ApText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/ant/build.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/console/EXAM.MD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/console/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/console/build/classes/com/alevel/test/ApStr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/console/build/classes/com/alevel/test/ApText.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/console/build/classes/com/alevel/test/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/console/build/jar/commons-lang3-3.12.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/console/build/jar/commons-text-1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/console/build/jar/main.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/console/libs/commons-lang3-3.12.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/console/libs/commons-text-1.9.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/console/run.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/console/src/ua/com/alevel/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/console/src/ua/com/alevel/test/ApStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/console/src/ua/com/alevel/test/ApText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/maven/app/build.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/maven/app/dependency-reduced-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/maven/app/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/maven/app/src/main/java/ua/com/alevel/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/maven/app/src/main/java/ua/com/alevel/test/ApStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/maven/app/src/main/java/ua/com/alevel/test/ApText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/maven/app/target/classes/com/alevel/test/ApStr.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/maven/app/target/classes/com/alevel/test/ApText.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/maven/app/target/classes/com/alevel/test/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/maven/app/target/main.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/maven/app/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/maven/app/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/maven/app/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hw_1_compilation/java/maven/app/target/original-main.jar" afterDir="false" />
-    </list>
+    <list default="true" id="2c1fa791-80e2-4bf5-9662-a30d2a407e7f" name="Changes" comment="first" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" show_ignored="true" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -161,6 +20,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -209,6 +69,14 @@
       <option name="presentableId" value="Default" />
       <updated>1644414576748</updated>
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1645005899794</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645005899794</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -224,6 +92,13 @@
               </option>
               <option name="FILTERS">
                 <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
                   <entry key="text">
                     <value>
                       <list>
